@@ -1,6 +1,5 @@
 mobile-game-analytics/
-│── data/
-│   ├── cost.csv
+│── ├── cost.csv
 │   ├── in_app_purchase.csv
 │   ├── level_end.csv
 │   ├── overview_date.csv
