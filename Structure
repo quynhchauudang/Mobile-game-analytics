@@ -1,0 +1,12 @@
+mobile-game-analytics/
+│── data/
+│   ├── cost.csv
+│   ├── in_app_purchase.csv
+│   ├── level_end.csv
+│   ├── overview_date.csv
+│
+│── notebooks/
+│   └── mobile_game_analytics.ipynb
+│
+│── README.md
+│── requirements.txt
