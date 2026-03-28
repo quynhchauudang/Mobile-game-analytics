@@ -43,7 +43,7 @@ Dữ liệu bao gồm 4 bảng chính:
 
 ## 📂 Project Structure
 
-* `data/`: chứa dataset
+* `data/`: chứa sample dataset
 * `notebooks/`: notebook phân tích
 
 ## 🚀 Author
